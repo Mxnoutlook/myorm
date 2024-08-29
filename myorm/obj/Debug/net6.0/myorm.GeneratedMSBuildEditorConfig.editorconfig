@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myorm
-build_property.ProjectDir = C:\Users\38980\Desktop\ORM自定义框架\MY_ORM\myorm\
+build_property.ProjectDir = C:\Users\38980\Desktop\MyORM\myorm\myorm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
